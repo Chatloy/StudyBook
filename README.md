@@ -115,7 +115,8 @@ Contents
   + [DataScienceHandbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/DataScienceHandbook.pdf) 
   + [Python Data Science Handbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/pythondatasciencehandbook.pdf) 
   + [Foundations of Data Science(Microsoft).pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Foundations%20of%20Data%20Science(Microsoft).pdf) 
-
+  + [Bayesian_Data_Analysis_Third_edition.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Bayesian_Data_Analysis_Third_edition.pdf) 
+  
 * [Math Books](https://github.com/changwookjun/StudyBook/tree/master/MathBooks)     
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
   + [Mathematics for Machine Learnin.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learnin.pdf) 
