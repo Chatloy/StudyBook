@@ -156,6 +156,7 @@ Contents
     - [Lecture 12- Memory Lecture.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2012-%20Memory%20Lecture.pdf)    
     - [Lecture 13 - Linguistics.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/oxford-cs-deepnlp-2017/Lecture%2013%20-%20Linguistics.pdf)      
   + [Speech and Language Processing.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Speech_and_Language_Processing.pdf) 
+  + [Embeddings in Natural Language Processing.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Embeddings%20in%20Natural%20Language%20Processing.pdf)  
 
 
 * [Python Books](https://github.com/changwookjun/StudyBook/tree/master/PythonBooks)   
