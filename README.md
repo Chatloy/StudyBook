@@ -3,9 +3,7 @@
 Contents  
 * [Computer Vision Books](https://github.com/changwookjun/StudyBook/tree/master/ComputerVisionBooks)   
   + [Machine Learning for OpenCV.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/Machine%20Learning%20for%20OpenCV.pdf)   
-  + [Mastering_opencv.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/Mastering_opencv.pdf)   
-  + [OpenCV Computer Vision Projects.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/OpenCV%20Computer%20Vision%20Projects.pdf)   
-  + [opencv-3-computer-vision-application-robert-laganiere7734.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/opencv-3-computer-vision-application-robert-laganiere7734.pdf)   
+  + [Machine Learning for OpenCV.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/Machine%20Learning%20for%20OpenCV.pdf)   
   
 * [Deep Learning Books](https://github.com/changwookjun/StudyBook/tree/master/DeepLearningBooks)   
   + [Deep Learning - Josh Patterson & Adam Gibson.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Deep%20Learning%20-%20Josh%20Patterson%20%26%20Adam%20Gibson.pdf)   
