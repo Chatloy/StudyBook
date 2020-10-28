@@ -3,7 +3,7 @@
 Contents  
 * [Computer Vision Books](https://github.com/changwookjun/StudyBook/tree/master/ComputerVisionBooks)   
   + [Machine Learning for OpenCV.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/Machine%20Learning%20for%20OpenCV.pdf)   
-  + [Machine Learning for OpenCV.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/Machine%20Learning%20for%20OpenCV.pdf)   
+  + [Computer Vision- Algorithms and Applications.pdf](https://github.com/changwookjun/StudyBook/blob/master/ComputerVisionBooks/Computer%20Vision-%20Algorithms%20and%20Applications.pdf)   
   
 * [Deep Learning Books](https://github.com/changwookjun/StudyBook/tree/master/DeepLearningBooks)   
   + [Deep Learning - Josh Patterson & Adam Gibson.pdf](https://github.com/changwookjun/StudyBook/blob/master/DeepLearningBooks/Deep%20Learning%20-%20Josh%20Patterson%20%26%20Adam%20Gibson.pdf)   
@@ -119,11 +119,9 @@ Contents
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
   + [Mathematics for Machine Learnin.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learnin.pdf) 
   + [mathandcomp.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/mathandcomp.pdf) 
-  + [Mathematics for machine learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20machine%20learning.pdf) 
   + [Introduction to Applied Linear Algebra.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Introduction%20to%20Applied%20Linear%20Algebra.pdf) 
   + [matrixcookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/matrixcookbook.pdf) 
   + [mml-book](https://github.com/changwookjun/StudyBook/tree/master/MathBooks/mml-book)   
-  + [Mathematics for machine Learning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/Mathematics%20for%20Machine%20Learning.pdf)  
   + [MATHEMATICS FOR MACHINE LEARNING.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/mml-book.pdf)  
   + [LINEAR ALGEBRA.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/LINEAR%20ALGEBRA.pdf)  
 
