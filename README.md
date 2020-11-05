@@ -101,11 +101,7 @@ Contents
 
 * [NLP Books](https://github.com/changwookjun/StudyBook/tree/master/NLPBooks)     
   + [Applied Text Analysis with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Applied%20Text%20Analysis%20with%20Python.pdf) 
-  + [Jacob Perkins-Python 3 Text Processing with NLTK 3.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Jacob%20Perkins-Python%203%20Text%20Processing%20with%20NLTK%203.pdf) 
-  + [NLTK Essentials.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/NLTK%20Essentials.pdf) 
   + [Natural Language Processing with Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Natural%20Language%20Processing%20with%20Python.pdf) 
-  + [Python 3 Text Processing with NLTK 3 Cookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Python%203%20Text%20Processing%20with%20NLTK%203%20Cookbook.pdf) 
-  + [Python Text Processing with NLTK 2.0 Cookbook.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/scikit-learn%20Cookbook.pdf) 
   + [Text Analytics with Python A Practical Real-World Approach to Gaining Actionable Insights from your Data.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/Text%20Analytics%20with%20Python%20A%20Practical%20Real-World%20Approach%20to%20Gaining%20Actionable%20Insights%20from%20your%20Data.pdf) 
   + [The Text Mining HandBook.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/The%20Text%20Mining%20HandBook.pdf) 
   + [eisenstein-nlp-notes.pdf](https://github.com/changwookjun/StudyBook/blob/master/NLPBooks/eisenstein-nlp-notes.pdf)
