@@ -126,16 +126,7 @@ Contents
 
 
 * [Python Books](https://github.com/changwookjun/StudyBook/tree/master/PythonBooks)   
-  + [IPython Interactive Computing and Visualization Cookbook.pdf
-](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf)
   + [Learn Python The Hard Way 3rd Edition free pdf download.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20free%20pdf%20download.pdf)
-  + [Learning NumPy Array.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Learning%20NumPy%20Array.pdf)
-  + [Learning Pandas.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Learning%20Pandas.pdf)
-  + [Mastering Pandas for Finance.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Mastering%20Pandas%20for%20Finance.pdf)
-  + [Mastering Pandas.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Mastering%20Pandas.pdf)
-  + [Mastering-Python.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Mastering-Python.pdf)
-  + [NumPy Beginner's Guide, 2nd Edition.pdf](https://github.com/tchangwookjun/StudyBook/blob/master/PythonBooks/NumPy%20Beginner's%20Guide%2C%202nd%20Edition.pdf)
-  + [NumPy, 3rd Edition.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/NumPy%2C%203rd%20Edition.pdf)
   + [SciPy and NumPy.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/SciPy%20and%20NumPy.pdf)
   + [ScipyLectures-simple.pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/ScipyLectures-simple.pdf)
   + [Shaw Z.A. - Learn Python the Hard Way, 2nd Edition [2011, PDF, ENG].pdf](https://github.com/changwookjun/StudyBook/blob/master/PythonBooks/Shaw%20Z.A.%20-%20Learn%20Python%20the%20Hard%20Way%2C%202nd%20Edition%20%5B2011%2C%20PDF%2C%20ENG%5D.pdf)
