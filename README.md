@@ -89,6 +89,9 @@ Contents
   + [Foundations of Data Science(Microsoft).pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Foundations%20of%20Data%20Science(Microsoft).pdf) 
   + [Bayesian_Data_Analysis_Third_edition.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Bayesian_Data_Analysis_Third_edition.pdf)  
   + [Joseph K. Blitzstein, Jessica Hwang-Introduction to Probability.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang-Introduction%20to%20Probability.pdf)   
+  + [2019_Book_AutomatedMachineLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/2019_Book_AutomatedMachineLearning.pdf)   
+  + [2021_Book_RoboticsAIAndHumanity.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/2021_Book_RoboticsAIAndHumanity.pdf)     
+  + [Grant-Wischik2020_Book_OnThePathToAI.pdf](https://github.com/changwookjun/StudyBook/blob/master/MachineLearningBooks/Grant-Wischik2020_Book_OnThePathToAI.pdf)   
   
 * [Math Books](https://github.com/changwookjun/StudyBook/tree/master/MathBooks)     
   + [MIT18_657F15_LecNote.pdf](https://github.com/changwookjun/StudyBook/blob/master/MathBooks/MIT18_657F15_LecNote.pdf) 
